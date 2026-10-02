@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.paras {
+  color: black;
+  border: 1px solid black;
+  height: auto;
+  width: 60px;
+  text-align: center;
+}

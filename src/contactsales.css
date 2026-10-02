@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.sign {
+  color: white;
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: rgb(56, 56, 245);
+  height: auto;
+  width: 110px;
+  padding: 1px;
+  text-align: center;
+}
